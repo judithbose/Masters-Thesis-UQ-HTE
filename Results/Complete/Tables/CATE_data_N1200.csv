@@ -1,0 +1,9 @@
+method,pehe,bias
+BART,0.371,-0.007
+Causal Forest,0.651,0.018
+L&C,-,-
+L&C cqr,-,-
+dr_rf,0.969,0.010
+dr_xgb,1.303,0.004
+cqr_dr_rf,0.747,-0.002
+cqr_dr_xgb,1.371,0.025

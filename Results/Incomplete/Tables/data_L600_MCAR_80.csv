@@ -1,0 +1,13 @@
+method,Coverage_10%,Coverage_25%,Coverage_50%,Width_10%,Width_25%,Width_50%
+BART,100,100,100,10.48,10.37,10.24
+Causal Forest,47.8,34.6,31,0.73,0.74,0.8
+zaffran_rf,99,99.4,99.8,4.65,5.62,7.47
+zaffran_xgb,91.2,90.1,92.4,4.22,4.37,5.35
+cqr_dr_rf_mean,99.6,99.4,99.9,4.86,5.57,6.52
+cqr_dr_rf_median,99.6,99.5,99.9,4.86,5.56,6.52
+cqr_dr_rf_stacked,99.6,99.5,99.9,4.8,5.56,6.54
+cqr_dr_rf_conservative,99.9,99.9,100,5.89,7.14,8.74
+cqr_dr_xgb_mean,96.5,97.5,99.3,3.64,4.28,5.43
+cqr_dr_xgb_median,96.4,97.2,99.2,3.61,4.23,5.36
+cqr_dr_xgb_stacked,97.3,98.2,99.7,3.79,4.55,5.82
+cqr_dr_xgb_conservative,99.3,99.7,100,4.82,6.21,8.2
